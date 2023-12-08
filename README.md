@@ -23,6 +23,3 @@ This repository contains the codebase for an IoT-based Weather Station that meas
 - `/src`: Contains the source code for the IoT model.
 - `/docs`: Documentation and project-related files.
 
-## Usage
-
-Detailed instructions and usage guidelines can be found in the [docs folder](./docs).
