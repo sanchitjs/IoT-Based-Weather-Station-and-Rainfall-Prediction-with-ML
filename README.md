@@ -1,5 +1,4 @@
 # IoT-Based-Weather-Station-and-Rainfall-Prediction-with-ML
-# IoT Weather Station and Rainfall Prediction
 
 ## Overview
 
